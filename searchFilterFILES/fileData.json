@@ -1,0 +1,602 @@
+[
+  {
+    "Specialty": "Speciality",
+    "conditionDisease": "Condition / disease",
+    "topic": "Topic (*actual PDF or Word Doc)",
+    "docType": "Document Type"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Alcohol",
+    "topic": "Low Risk alcohol and other drug assessment",
+    "docType": "Assessment"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Alcohol",
+    "topic": "Moderate to high risk alcohol and drug treatment assessment",
+    "docType": "Assessment"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Alcohol",
+    "topic": "Alcohol use and dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Alcohol",
+    "topic": "Alcohol withdrawal",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Benzodiazepine ",
+    "topic": "Benzodiazepine Use and Dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Cannabis",
+    "topic": "Cannabis use and dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Cannabis",
+    "topic": "Medicinal Cannabis",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "General AoD management",
+    "topic": "Deprescribing pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "General AoD management",
+    "topic": "Drug Seeking Behaviours",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "General AoD management",
+    "topic": "Poisoning and Drug Overdose",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "General AoD management",
+    "topic": "Prescribing Drugs of Dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Methamphetamine ",
+    "topic": "Methamphetamine (Ice) Use and Dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Naloxone",
+    "topic": "Prescribing Naloxone",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Opioid",
+    "topic": "Opioid Pharmacotherapy Dispensing - Information for pharmacists",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Opioid",
+    "topic": "Opioid use and dependence",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Alcohol and other Drugs (AoD)",
+    "conditionDisease": "Opioid",
+    "topic": "Medication Assisted Treatment of Opioid Dependence (MATOD)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiac assessment",
+    "topic": "Absolute cardiovascular risk assessment",
+    "docType": "Assessment"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiology referral",
+    "topic": "Urgent or routine cardiology referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Ischaemic heart disease",
+    "topic": "Acute chest pains",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Heart failure",
+    "topic": "Advanced or end-stage heart failure",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Arrythmia",
+    "topic": "Atrial Fibrillation (AF)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiology investigations",
+    "topic": "Cardiology investigations",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiac risk factors",
+    "topic": "Familial Hypercholesterolaemia",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiology",
+    "topic": "Funny turns (Syncope)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Heart failure",
+    "topic": "Heart failure (cardiac failure)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiac risk factors",
+    "topic": "Hyperlipidaemia",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Cardiac risk factors",
+    "topic": "Hypertension",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Heart failure",
+    "topic": "Managing exacerbations of heart failure",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Cardiology",
+    "conditionDisease": "Arrythmia",
+    "topic": "Palpitations",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular referral",
+    "topic": "Immediate vascular surgery referral or admission",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular referral",
+    "topic": "Urgent or routine surgery referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular anticoagulation for DVT",
+    "topic": "Anticoagulation Therapy for DVT pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular conditions",
+    "topic": "Aortic Aneurysm pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular conditions",
+    "topic": "Carotid Artery Stenosis pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular conditions",
+    "topic": "Deep Vein Thrombosis pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular conditions",
+    "topic": "Leg ulcers pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Vascular",
+    "conditionDisease": "Vascular conditions",
+    "topic": "Varicose veins pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Chronic Pain",
+    "conditionDisease": "Chronic Pain",
+    "topic": "Chronic Pain",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "COVID-19",
+    "conditionDisease": "COVID-19",
+    "topic": "COVID-19 Primary Care Management",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Endocrinology referral",
+    "topic": "Urgent or routine diabetes referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Endocrinology referral",
+    "topic": "Urgent or routine endocrinology referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Glycaemic control for Type 2 diabetes",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Foot screening in diabetes",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Hyperglycaemia",
+    "topic": "Hyperglycaemia in pregnancy",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Hyperthyroidism",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Hypoglycaemia",
+    "topic": "Hypoglycaemia",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Hypothyroidism",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Impalpable Thyroid Nodules",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Insulin in Type 2 diabetes assessment and management",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Managing Type 2 diabetes",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Newly diagnosed Type 1 diabetes - adults",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Palpable thyroid nodules",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Pre-pregnancy planning for Type 1 and Type 2 diabetes",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Diabetes",
+    "topic": "Screening and detection of diabetes and pre-diabetes",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Endocrinology",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Thyroid disease in pregnancy",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Audiology referral",
+    "topic": "Adult audiology referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Adult speech pathology referral",
+    "topic": "Adult speech pathology referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "ENT referral or admission",
+    "topic": "Immediate ENT referral or admission",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "ENT assessment",
+    "topic": "Sleep medicine specialist assessment",
+    "docType": "Assessment"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "ENT referral or admission",
+    "topic": "Urgent or Routine ENT referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Hearing loss",
+    "topic": "Asymmetrical sensorineural hearing loss pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Dysphagia",
+    "topic": "Dysphagia",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Ear conditions",
+    "topic": "Ear discharge in adults",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Neck/Throat conditions",
+    "topic": "Hoarse voice (Dysphonia)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Hyperthyroidism pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Nasal conditions",
+    "topic": "Nasal Fracture",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Neck/Throat conditions",
+    "topic": "Neck lumps in adults pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Neck/Throat conditions",
+    "topic": "Obstructive Sleep Apnoea (OSA) in adults pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Neck/Throat conditions",
+    "topic": "Rhinosinuitis pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Nasal conditions",
+    "topic": "Salivary gland disorders pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Subclinical hyperthyroidism",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Thyroid function tests pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Thyroid conditions",
+    "topic": "Thyroid nodules pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Ear conditions",
+    "topic": "Tinnitus pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Neck/Throat conditions",
+    "topic": "Tonsilitis and sore throat in adults pathway",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "ENT (Ear Nose Throat)",
+    "conditionDisease": "Ear conditions",
+    "topic": "Vertigo (dizziness)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Gastroenterology referral",
+    "topic": "Colonoscopy referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Gastroenterology referral",
+    "topic": "Immediate Colorectal Surgery referral or admission",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Gastroenterology referral",
+    "topic": "Urgent or routine Colorectal Surgery referral or admission",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Gastroenterology referral",
+    "topic": "Immediate Gastroenterology referral or admission",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Gastroenterology referral",
+    "topic": "Urgent or routine liver referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Liver conditions",
+    "topic": "Abnormal Liver Function Tests",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Liver conditions",
+    "topic": "Chronic Hepatitis B",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Liver conditions",
+    "topic": "Cirrhosis",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Coeliac Disease in adults",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Colorectal cancer symptoms - suspected colorectal cancer",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Constipation in adults",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Diarrhoea in adults",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Dyspepsia and heartburn/GORD",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Digestive system conditions",
+    "topic": "Inflammatory Bowel Disease (IBD)",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Anaemia",
+    "topic": "Iron Deficiency Anaemia",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gastroenterology",
+    "conditionDisease": "Liver conditions",
+    "topic": "Hepatitis C",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Gynaecology referral",
+    "topic": "Colposcopy referral",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Gynaecology referral",
+    "topic": "Urgent or routine gynaecology referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Gynaecology referral",
+    "topic": "Termination of pregnancy - Referral",
+    "docType": "Referral"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Termination of pregnancy",
+    "topic": "Termination of pregnancy",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Contraception and sterilisation",
+    "topic": "Contraception and sterilisation",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Gynaecology conditions",
+    "topic": "Endometriosis",
+    "docType": "Clinical Pathway"
+  },
+  {
+    "Specialty": "Gynaecology",
+    "conditionDisease": "Gynaecology conditions",
+    "topic": "Heavy menstrual bleeding",
+    "docType": "Clinical Pathway"
+  }
+]
